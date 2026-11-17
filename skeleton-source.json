@@ -1,11 +1,11 @@
 {
   "format": 1,
   "repository": "https://github.com/lambig/ab-architecture-rules",
-  "sourceCommit": "60cb1e10dcd660fd48b42bfd405e7936564fb8f0",
+  "sourceCommit": "0db29f424b07a274bafbeb565fe94470d25bc6b0",
   "files": {
-    ".github/workflows/ci.yml": "3978aa4e02b922331676fe1880cf9f3891475a97c13962df58563e34414b9b8e",
+    ".github/workflows/ci.yml": "c09caafacb599fec77a0237816b0329a94e87def5383856b86ad876480ccd099",
     ".gitignore": "8c14e5ce2a4b785f38e12036540e8838090de3a962d6e91132c34bf1f129d2a2",
-    "README.md": "f4e7193a0db99efd9546033ada5119060e7b41a677b2c6f1f92db04315f5945c",
+    "README.md": "d8c771f439cf88f0272cb22ce8cd733737b4619bba2e706258b4ded65da8d8b0",
     "build.gradle": "f35556d72ccd7b02fa1b0dae09bb1ca636684b960e4318fac17b279fdd715041",
     "gradle.properties": "188f9583a0aedefd090fc0dd435023a349db81e67f4ad71e2b6cc243f1bc3c98",
     "gradle/wrapper/gradle-wrapper.jar": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3",
