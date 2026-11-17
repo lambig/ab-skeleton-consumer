@@ -1,0 +1,23 @@
+{
+  "format": 1,
+  "repository": "https://github.com/lambig/ab-architecture-rules",
+  "sourceCommit": "60cb1e10dcd660fd48b42bfd405e7936564fb8f0",
+  "files": {
+    ".github/workflows/ci.yml": "3978aa4e02b922331676fe1880cf9f3891475a97c13962df58563e34414b9b8e",
+    ".gitignore": "8c14e5ce2a4b785f38e12036540e8838090de3a962d6e91132c34bf1f129d2a2",
+    "README.md": "f4e7193a0db99efd9546033ada5119060e7b41a677b2c6f1f92db04315f5945c",
+    "build.gradle": "f35556d72ccd7b02fa1b0dae09bb1ca636684b960e4318fac17b279fdd715041",
+    "gradle.properties": "188f9583a0aedefd090fc0dd435023a349db81e67f4ad71e2b6cc243f1bc3c98",
+    "gradle/wrapper/gradle-wrapper.jar": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3",
+    "gradle/wrapper/gradle-wrapper.properties": "dd7f9ae2b5f8b2282ef84335c9120582cd6e56a0c784ca04a33355295cdefa55",
+    "gradlew": "fb68debc1b1acf8ec55dc0d5e5495e1dedd0bd6b61f304bee61613eeb2bd9b92",
+    "gradlew.bat": "9ca26d733ada3a45f27b2151288f54e75c9f95b287d1f82ef942ec5cc2d4f006",
+    "settings.gradle": "3ebf584ba2def92da8dd4982e710fdd45ea680cbdefd57008e38293389d9667b",
+    "src/main/java/example/shipping/DispatchOperation.java": "bbfae1dd9f2fd718b294b4ad078f6273b188bb9abb63d6b3643d4aeb1eaa1f45",
+    "src/main/java/example/shipping/Main.java": "d3a1f4688533807f1ad23dbf15e04599554f301902782419276555f7df148740",
+    "src/main/java/example/shipping/Operation.java": "c230b75b4b680a9f94cb20efd7811b0f02d9d2d4b65e6f464b37014c526e7525",
+    "src/main/java/example/shipping/Shipment.java": "61f250744b39269871c8830d80e6deb59d4157b04b98e848207bc03089605dc2",
+    "src/main/java/example/shipping/Transition.java": "83e27c336e0fb43f8125ca803174e4a3c3dde97383e093cb7992bdd515ecb9d2",
+    "src/test/java/example/shipping/BoundaryCheck.java": "cf88c958ba544a4da51042c304ffa1a0338538c6a2871c89980cfbcd83ec4ebf"
+  }
+}
