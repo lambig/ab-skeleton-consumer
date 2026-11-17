@@ -1,4 +1,13 @@
-# Shipping starter
+# AB Skeleton 検証用リポジトリ
+
+このリポジトリは、**AB Skeletonと公開ライブラリの受け入れ検証専用のリポジトリ**です。
+独立した利用側として、許容例の成功・境界違反の検出・修正後の成功・依存更新前後の動作を、個別のコミットとGitHub Actionsの実行履歴で確認します。
+
+`demo.delivery` のコードは受け入れ試験用のサンプルです。テンプレート本体は、取得元の [AB Skeleton](https://github.com/lambig/ab-architecture-rules/blob/60cb1e10dcd660fd48b42bfd405e7936564fb8f0/skeleton/README.md) を参照してください。
+
+検証範囲・取得元・残る判定は [ACCEPTANCE.md](ACCEPTANCE.md)、コミットごとのCI結果は [受け入れ検証PR #1](https://github.com/lambig/ab-skeleton-consumer/pull/1) に記録しています。
+
+## 検証の実行
 
 `sh gradlew clean check run` で公開ライブラリの利用とアクセス境界を確認します。JDK 17以上でbuildし、アプリケーションはJava 11以上を対象とします。
 正常時の出力は `H1 boundary passed` と `dispatch: ready` です。
